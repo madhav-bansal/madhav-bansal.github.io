@@ -1,4 +1,2 @@
-# madhav-bansal.github.io
-My Portfolio
-This GitHub Repo is Hosting website.
+# My Website
 https://madhav-bansal.github.io/
